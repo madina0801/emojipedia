@@ -1,7 +1,6 @@
 import Entry from "./components/Entry";
 import emojipedia from './emojipedia';
 
-console.log(emojipedia);
 function createEntry(emojiTerm) {
 	return(
 		<Entry
